@@ -57,7 +57,7 @@ Final year project that monitors waste levels using sensors with a Laravel dashb
 ## Experience
 
 **Jr. Laravel Developer — Innovo Technologies**  
-Oct 2025 – Present
+Oct 2025 – April 2026
 
 **Jr. Laravel Developer — EGeeks Global**  
 Feb 2025 – June 2025
