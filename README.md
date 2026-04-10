@@ -70,6 +70,12 @@ May 2023 – Dec 2023
 
 ---
 
+## MY CV
+
+[SohailCV2.0.2.pdf](https://github.com/user-attachments/files/26629000/SohailCV2.0.2.pdf)
+
+---
+
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohailqureshii369@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohailqureshi9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailqureshi9) 
